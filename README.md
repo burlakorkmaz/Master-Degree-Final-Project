@@ -1,17 +1,17 @@
 # Folder Structure
 
-.
-└── Train_test/
-    ├── Dataset/
-    │   ├── dolphin_signal_dataset
-    │       ├── Train/
-    │       └── Test/
-    │       └── dolphin_signal_train.csv
-    │       └── dolphin_signal_test.csv
-    ├── figs/
-    ├── models/
-    ├── train_vgg.py
-    ├── test_vgg.py
+  .
+  └── Train_test/
+      ├── Dataset/
+      │   ├── dolphin_signal_dataset
+      │       ├── Train/
+      │       └── Test/
+      │       └── dolphin_signal_train.csv
+      │       └── dolphin_signal_test.csv
+      ├── figs/
+      ├── models/
+      ├── train_vgg.py
+      ├── test_vgg.py
     
 └── Whistle_detection/
     ├── images/
