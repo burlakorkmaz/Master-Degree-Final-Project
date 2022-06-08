@@ -2,24 +2,24 @@
 
 .  
 └── Train_test/  
-    ├── Dataset/
-    │   ├── dolphin_signal_dataset
-    │       ├── Train/
-    │       └── Test/
-    │       └── dolphin_signal_train.csv
-    │       └── dolphin_signal_test.csv
-    ├── figs/
-    ├── models/
-    ├── train_vgg.py
-    ├── test_vgg.py
+    ├── Dataset/  
+    │   ├── dolphin_signal_dataset  
+    │       ├── Train/  
+    │       └── Test/  
+    │       └── dolphin_signal_train.csv  
+    │       └── dolphin_signal_test.csv  
+    ├── figs/  
+    ├── models/  
+    ├── train_vgg.py  
+    ├── test_vgg.py  
     
-└── Whistle_detection/
-    ├── images/
-    ├── models/
-    │   └── model_vgg.h5
-    ├── predicted_images/
-    │   ├── negative/
-    │   └── positive/
-    ├── recordings/
-    ├── predict.py
-    ├── save_spectrogram.m
+└── Whistle_detection/  
+    ├── images/  
+    ├── models/  
+    │   └── model_vgg.h5  
+    ├── predicted_images/  
+    │   ├── negative/  
+    │   └── positive/  
+    ├── recordings/  
+    ├── predict.py  
+    ├── save_spectrogram.m  
