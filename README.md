@@ -11,7 +11,10 @@
     ├── figs/  
     ├── models/  
     ├── train_vgg.py  
-    ├── test_vgg.py  
+    ├── test_vgg.py 
+    ├── train_cnn.py
+    ├── test_cnn.py
+    
     
 └── Whistle_detection/  
     ├── images/  
