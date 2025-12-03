@@ -1,4 +1,7 @@
-# Folder Structure
+# [Frontiers in Artificial Intelligence] Automated detection of dolphin whistles with convolutional networks and transfer learning
+
+
+## Folder Structure
 <pre>
 .  
 └── Train_test/  
@@ -30,7 +33,7 @@
 <pre>    
 
 
-# Citation
+## Citation
 <pre>
 @article{nur2023automated,
   title={Automated detection of dolphin whistles with convolutional networks and transfer learning},
