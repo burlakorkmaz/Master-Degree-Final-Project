@@ -1,5 +1,7 @@
 # [Frontiers in Artificial Intelligence] Automated detection of dolphin whistles with convolutional networks and transfer learning
 
+This repository implements the deep learning based automated dolphin whistle detection method.
+
 
 ## Folder Structure
 <pre>
