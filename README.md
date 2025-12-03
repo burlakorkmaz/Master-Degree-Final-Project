@@ -36,6 +36,17 @@ This repository implements the deep learning based automated dolphin whistle det
 
 
 ## Citation
+### Master's Thesis
+Link to master's thesis: [https://thesis.unipd.it/handle/20.500.12608/31586](https://thesis.unipd.it/handle/20.500.12608/31586) 
+<pre>
+@article{korkmazdeep,
+  title={Deep learning techniques for biological signal processing: Automatic detection of dolphin sounds},
+  author={KORKMAZ, BURLA NUR}
+}
+</pre>
+
+### Publication
+Link to paper: [https://doi.org/10.3389/frai.2023.1099022](https://doi.org/10.3389/frai.2023.1099022)
 <pre>
 @article{nur2023automated,
   title={Automated detection of dolphin whistles with convolutional networks and transfer learning},
